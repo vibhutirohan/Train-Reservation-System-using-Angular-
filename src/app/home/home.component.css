@@ -1,0 +1,60 @@
+
+
+.container {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+.table {
+  background: rgba(255,255,255,0.5);
+}
+
+.navbar {
+  background: linear-gradient(to right, rgba(115, 141, 142, 0.811), rgba(0,0,255,0));
+}
+
+.nav-item {
+  background: rgba(255,255,255,0.5);
+}
+
+label[for="from"],
+label[for="to"],
+td > label:first-child {
+    color: #121010; /* Change this to any dark color you prefer */
+}
+
+h5 {
+  font-size: 2em;
+  color: white;
+
+   
+}
+
+form label,
+form input,
+form select,
+form button {
+  font-size: 1.2em; /* Change this to adjust the size of form details */
+}
+
+button[routerLink="cancelBooking"] {
+  color: #fff; /* This will make the text color bright white */
+}
+
+h3.text-center {
+  color: white;
+}
+
+label {
+  color: black; /* Adjust as needed */
+}
+
+
+.btn.btn-primary {
+  padding: 15px 25px; /* Adjust as needed */
+  font-size: 1.2em; /* Adjust as needed */
+}
+
+
+

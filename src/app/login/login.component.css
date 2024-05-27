@@ -1,0 +1,38 @@
+   
+/* .card {
+    background: linear-gradient(to right, rgba(205, 199, 199, 0.7), rgba(202, 194, 194, 0.9)); 
+    color: #ffffff; 
+  }
+  
+  
+  .darker-text {
+    color: #000066; 
+  }
+
+   */
+
+/* Transparency for the card */
+.card.bg-info {
+  background-color: rgba(12, 42, 50, 0.712) !important;
+}
+
+/* Gradient for the button */
+.btn.btn-outline-light {
+  background-image: linear-gradient(to right, #ff105f, #ffad06);
+  border: none;
+}
+
+h2.fw-bold {
+  font-size: 2.0em; /* Adjust as needed */
+}
+
+p.text-white-60 {
+  font-size: 1.2em; /* Adjust as needed */
+}
+
+p.mb-0 {
+  font-size: 1.2em; /* Adjust as needed */
+}
+
+
+

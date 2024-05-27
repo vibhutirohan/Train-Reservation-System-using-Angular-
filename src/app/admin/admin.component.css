@@ -1,0 +1,64 @@
+
+#btn{
+  padding: 50px;
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(83, 137, 168, 0.1);
+  text-decoration: none;
+  color: #f2f2f2;
+  transition: transform 0.3s ease;
+}
+
+.box:hover {
+  transition: all 0.5s ease-in-out;
+  border-radius: 50%;
+  transform: scale(1.05);
+}
+
+.box h3 {
+  margin-top: 0;
+  font-size: 50px;
+}
+
+.box p {
+  margin-bottom: 0;
+  font-size: 20px;
+  color: #666;
+}
+
+#header #het{
+  color: white !important;
+  font-size: 60px;
+}
+
+.btn-dark {
+  font-size: 1.5em; /* Make the logout button text bigger */
+  padding: 10px 20px; /* Make the logout button bigger */
+}
+
+
+.box {
+  font-size: 1.2em; 
+}
+
+
+.box-container {
+  
+  background-size: cover;
+  opacity: 0.9;
+}

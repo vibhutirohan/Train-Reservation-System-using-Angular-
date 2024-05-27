@@ -1,0 +1,9 @@
+.container{
+    border: 1px solid;
+    max-width: fit-content;
+    background: linear-gradient(to right, lightblue, rgb(0, 183, 255)) !important;
+}
+
+label{
+    font-weight: bold;
+}
