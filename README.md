@@ -51,3 +51,11 @@
 ```bash
 git clone https://github.com/vibhutirohan/Train-Reservation-System-using-Angular-.git
 cd Train-Reservation-System-using-Angular-
+
+2. Install Dependencies
+
+npm install
+
+3. Run Development Server
+
+ng serve
