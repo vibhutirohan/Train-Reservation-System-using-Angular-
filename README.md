@@ -1,23 +1,10 @@
-# 🚄 Train Reservation System using Angular
 
 # 🚄 Train Reservation System using Angular
 
-![Train Reservation System](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1050&q=80)
+![Train Reservation System](https://images.unsplash.com/white-and-red-db-train-subway-Njq3Nz6-5rQ)
 
 <!-- Replace the above line with your chosen Unsplash image below: -->
 
-![Train in Subway](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1050&q=80)
-<!-- Or use this, which is your chosen image: -->
-![DB Train on Subway](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1050&q=80)
-<!-- But the *exact* image you shared: -->
-![DB Train](https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=1050&q=80)
-
-<!-- But this is the exact Unsplash link you shared: -->
-![DB Train Subway](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1050&q=80)
-
-<!-- Or, directly copy-paste the following line as your banner image: -->
-
-![DB Train Subway](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1050&q=80)
 
 ---
 
