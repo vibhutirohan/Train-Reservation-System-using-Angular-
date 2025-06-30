@@ -3,20 +3,7 @@
 
 ![DB Train Subway](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1050&q=80)
 
----
 
-
-<!-- Replace the above line with your chosen Unsplash image below: -->
-
-
----
-
-## 🎯 Overview
-
-...
-
-
----
 
 [![Angular](https://img.shields.io/badge/Angular-17.3.5-red?logo=angular)](https://angular.io/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
