@@ -1,7 +1,10 @@
 
 # 🚄 Train Reservation System using Angular
 
-![Train Reservation System](https://images.unsplash.com/white-and-red-db-train-subway-Njq3Nz6-5rQ)
+![DB Train Subway](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1050&q=80)
+
+---
+
 
 <!-- Replace the above line with your chosen Unsplash image below: -->
 
