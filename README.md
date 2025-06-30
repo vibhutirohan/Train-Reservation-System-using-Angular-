@@ -1,27 +1,53 @@
-# TrainProject
+# 🚄 Train Reservation System using Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+![Train Reservation System](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1050&q=80)
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![Angular](https://img.shields.io/badge/Angular-17.3.5-red?logo=angular)](https://angular.io/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🎯 Overview
 
-## Build
+**Train Reservation System** is a full-featured web application built with Angular. It enables users to **search, book, and manage train tickets** in a fast and intuitive interface. This project showcases a blend of modern UI design, seamless animations, and efficient data management—all wrapped in a robust Angular framework.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🚀 Features
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- 🔎 **Search Trains:** Find available trains between stations
+- 🗓️ **Book Tickets:** Simple reservation process with instant feedback
+- 🧾 **Booking History:** View, manage, and cancel previous bookings
+- 👤 **User Authentication:** Secure login and registration
+- 🖥️ **Responsive Design:** Mobile-friendly and desktop-ready
+- 🎉 **Modern UI with Animations:** Smooth transitions and interactive elements for a delightful user experience
+- 📊 **Admin Dashboard:** (If you have this, mention features: train management, booking stats, etc.)
+- 📝 **Unit & E2E Testing:** Built-in Angular testing support
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🖼️ Screenshots
 
-## Further help
+> *Replace the images below with your own app screenshots or gifs from your `/assets` folder for an even better effect!*
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+| Home Page                               | Train Search                              |
+|------------------------------------------|-------------------------------------------|
+| ![Home](https://i.imgur.com/Cyg6pNA.png) | ![Search](https://i.imgur.com/p1mFZja.png) |
+
+| Booking Flow                             | Animated UI Example                       |
+|-------------------------------------------|-------------------------------------------|
+| ![Book](https://i.imgur.com/UV1FxEA.png) | ![Animation](https://i.imgur.com/lM3nMJw.gif) |
+
+---
+
+## 🛠️ Getting Started
+
+### 1. **Clone the Repository**
+
+```bash
+git clone https://github.com/vibhutirohan/Train-Reservation-System-using-Angular-.git
+cd Train-Reservation-System-using-Angular-
