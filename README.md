@@ -30,17 +30,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-> *Replace the images below with your own app screenshots or gifs from your `/assets` folder for an even better effect!*
-
-| Home Page                               | Train Search                              |
-|------------------------------------------|-------------------------------------------|
-| ![Home](https://i.imgur.com/Cyg6pNA.png) | ![Search](https://i.imgur.com/p1mFZja.png) |
-
-| Booking Flow                             | Animated UI Example                       |
-|-------------------------------------------|-------------------------------------------|
-| ![Book](https://i.imgur.com/UV1FxEA.png) | ![Animation](https://i.imgur.com/lM3nMJw.gif) |
 
 ---
 
